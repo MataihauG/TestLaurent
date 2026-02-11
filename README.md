@@ -11,7 +11,7 @@ Short one-sentence description of what this project does.
 - Fast and simple to use
 - Minimal dependencies
 - Works on Windows / macOS / Linux
-- Easily extendable mataihau
+- Easily extendable mataihau laurent
 
 ---
 
